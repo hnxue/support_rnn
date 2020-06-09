@@ -4,6 +4,8 @@ This is a classifier for social support (emotional vs. nonemotional) with word e
 
 All posts are from Alzconnected.com.
 
+This project will enable us to answer the question, whether dementia caregivers receive the support they need from social support forums by classifying the support needed and support provided. We can further help caregivers by understanding the social support dynamics.
+
 ### Social support
 
 There are several different ways to categorize social support, and most of them fall in two broad categories, emotional and non-emotional.
@@ -27,9 +29,10 @@ Activation function of sigmoid to ensure independent classification of multiple 
 
 ### Probing task
 
-- Existing probing tasks of sentences
-- Probing with LIWC result
+- Existing probing tasks of sentences (not significant)
+- Probing with LIWC result (some linguistic features with high correlation)
 
 ### Double check with decision trees
 
 - Higher accuracy
+
