@@ -1,12 +1,17 @@
 # Multi-label classifier of social support
 
-This is a classifier for social support (emotional vs. nonemotional) with word embeddings trained by Word2Vec. All posts are from Alzconnected.com.
+This is a classifier for social support (emotional vs. nonemotional) with word embeddings trained by Word2Vec. 
+
+All posts are from Alzconnected.com.
 
 ### Social support
 
 There are several different ways to categorize social support, and most of them fall in two broad categories, emotional and non-emotional.
+
 Emotional support: expression of empathy, love, caring
+
 Non-emotional support: information, comment, advice
+
 
 ### Pretrained word embeddings (Word2Vec)
 
